@@ -33,9 +33,6 @@ Unlike machine learning-based models, this chatbot uses **predefined rules and s
 
 ---
 
-
----
-
 ## Installation & Setup
 
 ### 1. Clone Repository
@@ -55,6 +52,8 @@ streamlit run healthbot.py
 ```
 
 ---
+
+## Working
 
 The chatbot will ask you to:
 
